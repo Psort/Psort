@@ -33,9 +33,9 @@ To sum up, in my free time as a programmer, I love solving logical puzzles and d
 
 
 ## :mailbox: Contact and socials
-skowronpiotr.00@gmail.com
-https://piotrskowron.netlify.app/
-https://www.linkedin.com/in/piotr-skowron-966419268/
+skowronpiotr.00@gmail.com </br>
+https://piotrskowron.netlify.app/ </br>
+https://www.linkedin.com/in/piotr-skowron-966419268/ </br>
 
 
 <!--
